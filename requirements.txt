@@ -1,0 +1,6 @@
+pandas
+pymysql
+sqlalchemy
+create_engine
+psycopg2
+
