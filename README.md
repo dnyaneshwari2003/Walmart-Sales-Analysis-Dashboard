@@ -12,17 +12,15 @@ Data Visualization: The insights derived from the SQL queries are visualized usi
 
 
 ## Key Business Questions & Insights
-The SQL queries in walmart_queries.sql were crafted to answer the following questions:
+Based on the provided dashboards, the following key insights were derived from the data analysis:
 
-Payment Method Analysis: What are the most popular payment methods, and how do they differ across branches?
+Sales Performance: Total Sales for the period are $725,457.02, with a total quantity of 12,264 items sold, and a total profit of $104,818.45.
 
-Customer & Product Rating: Which product categories are the highest-rated in each branch?
+Regional & Temporal Trends: Sales are highest in California and Washington. There is a clear upward trend in sales over time from 2011 to 2014.
 
-Operational Efficiency: Which are the busiest days and times of day for each branch?
+Profitability: Colorado and California are the most profitable states. The top-performing product categories by profit include Phones, Storage, and Copiers.
 
-Profitability: How does gross income vary by product category, and which categories are the most profitable?
-
-Revenue Trends: How has revenue changed over time, specifically identifying branches with a significant decrease in revenue year-over-year?
+Operational Metrics: The average delivery time is 4.01 days.
 
 ## Visualizations
 The final step of the analysis involved creating visualizations to present the findings in a clear and intuitive way. The dashboards below, created using Excel and Power BI, were used to present key metrics like total sales, quantity, and profit, as well as granular insights into sales by category, profit by state, and average delivery time.
